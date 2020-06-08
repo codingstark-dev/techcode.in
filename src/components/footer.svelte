@@ -16,7 +16,7 @@
       </h1>
     </a>
     <!-- <div class="border-separate border-b-2 border-gray-400 " /> -->
-    <div class="flex bg-indigo-400 w-auto h-10 justify-center py-1 space-x-1 ">
+    <div class="flex bg-indigo-400 w-auto h-10 justify-center py-1 space-x-1 md:space-x-5 ">
       <div
         class="bg-gray-400 w-auto h-8 opacity-75 rounded-md py-1 px-2
         font-semibold p-4 transition duration-500 ease-in-out transform
@@ -54,7 +54,7 @@
     </div>
    
   </div>
- <div class="focus:outline-none flex-1 py-3 p-8 font-bold text-white bg-indigo-400 h-20 w-auto py-3  text-lg text-center">
+ <div class="focus:outline-none flex-1 py-3 p-8 font-bold text-white bg-indigo-400 h-20 w-auto py-3  text-base text-center">
       Copyright © 2018-2020 by <span  class="font-black text-white  md:text-xl uppercase
           hover:text-indigo-300 transition-color duration-150 text-center">Techcode<span class="text-gray-400">.iN</span>
       </span>All Rights Reserved.

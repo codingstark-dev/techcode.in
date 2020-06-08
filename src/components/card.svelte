@@ -2,7 +2,7 @@
 
 <div
   class=" w-40 h-40 select-none cursor-pointer bg-gray-200 rounded-md
-   items-center  p-4 transition duration-500 ease-in-out transform
+   items-center justify-center   p-4 transition duration-500 ease-in-out transform
   hover:-translate-y-1 hover:shadow-lg justify-center text-center ">
   <slot />
 </div>

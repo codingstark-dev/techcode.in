@@ -11,13 +11,13 @@
     </a>
     <a
       class="no-underline text-teal-dark border-b-2 border-teal-dark uppercase
-      tracking-wide font-bold text-sm md:text-xl py-3 mr-8 hover:text-indigo-500"
+      tracking-wide font-bold text-sm md:text-lg py-3 mr-8 hover:text-indigo-500"
       href="#"> 
       Home
     </a>
     <a
       class="no-underline text-grey-dark border-b-2 border-transparent uppercase
-      tracking-wide font-bold  text-sm py-3 mr-8 md:text-xl hover:text-indigo-500"
+      tracking-wide font-bold  text-sm py-3 mr-8 md:text-lg hover:text-indigo-500"
       href="#">
       About
     </a>
