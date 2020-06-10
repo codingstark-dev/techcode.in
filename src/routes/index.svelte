@@ -31,11 +31,7 @@
     margin: 1em auto;
   }
 
-  @media (min-width: 480px) {
-    h1 {
-      font-size: 4em;
-    }
-  }
+
 </style>
 
 <svelte:head>
@@ -43,4 +39,3 @@
 </svelte:head>
 
 <Home />
-

@@ -1,11 +1,16 @@
+<script>
+  export let links = "";
+  let domain = "https://techcode.in/";
+</script>
 
-
-<div
-  class=" w-40 h-40 select-none cursor-pointer bg-gray-200 rounded-md
-   items-center justify-center   p-4 transition duration-500 ease-in-out transform
-  hover:-translate-y-1 hover:shadow-lg justify-center text-center ">
-  <slot />
-</div>
+<a href={domain+links}>
+  <div
+    class=" w-40 h-40 select-none cursor-pointer bg-gray-200 rounded-md
+    items-center justify-center p-4 transition duration-500 ease-in-out
+    transform hover:-translate-y-1 hover:shadow-lg justify-center text-center ">
+    <slot />
+  </div>
+</a>
 
 <!-- <div class="container flex mx-auto w-full items-center">
 
