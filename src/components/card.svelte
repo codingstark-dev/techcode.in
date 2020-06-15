@@ -1,6 +1,6 @@
 <script>
   export let links = "";
-  let domain = "https://techcode.in/";
+  let domain = "http://localhost:3000/";
 </script>
 
 <a href={domain+links}>
